@@ -5,7 +5,6 @@ This repository contains the numerical simulation code and figure generation scr
 
 > **Article Title**: [Space versus Context: Competition for limited neural resources determines engram cell allocation in the hippocampus]  
 > **Authors**: [Kensuke Chiba and Jun-nosuke Teramae]  
-> *Submitted to / Published in PNAS.*
 
 ---
 
